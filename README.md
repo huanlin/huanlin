@@ -1,13 +1,11 @@
 Hi there! 👋
 
-## 我目前在做什麼
+## I am working on...
 
 - [Text to Braille](https://github.com/braillekit/text-to-braille) (前身是 EasyBrailleEdit，這是該專案的開放原始碼版本）
 - [Google documentation style guide](https://github.com/tech-writing-lab/style-guide) (🤝 collaboration needed)
 
-If you're building something meaningful around engineering, documentation, or accessibility, feel free to reach out — I’d love to help.
-
-## 常用工具
+## Tools
 
 - Shell 工具：
   - [Starship](https://github.com/starship/starship)
