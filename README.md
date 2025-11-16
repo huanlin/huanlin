@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**huanlin/huanlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ✍ 我目前在做什麼
 
-Here are some ideas to get you started:
+- [Text to Braille](https://github.com/braillekit/text-to-braille) (前身是 EasyBrailleEdit，這是該專案的開放原始碼版本）
+- [Google documentation style guide](https://github.com/tech-writing-lab/style-guide) (🤝 collaboration needed)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you're building something meaningful around engineering, documentation, or accessibility, feel free to reach out — I’d love to help.
+
+## 常用工具
+
+- Shell 工具：
+  - [Starship](https://github.com/starship/starship)
+  - [Oh My Posh](https://github.com/JanDeDobbeleer/oh-my-posh)
+
+---
+
+## 📬 Contact
+- **Blog:** <https://huanlintalk.com>
+- **Facebook:** <https://www.facebook.com/huanlin.notes>
+
+---
+
+Thanks for stopping by! 😊
