@@ -42,7 +42,7 @@ Hi there! 👋
 
 ### 🤖 AI writing tools
 
-- ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?logo=openai&logoColor=white)
+- [![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?logo=openai&logoColor=white)](https://chatgpt.com/)
 - ![Gemini CLI](https://img.shields.io/badge/Gemini_CLI-4285F4?logo=google&logoColor=white)
 - ![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?logo=google&logoColor=white)
 
