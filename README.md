@@ -5,8 +5,6 @@ Hi there! 👋
 - IT 老菜鳥 (still leveling up)
 - 技術寫作者 (technical writer)
   ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
-  ![Quarto](https://img.shields.io/badge/Quarto-444444?logo=quarto&logoColor=white)
-  ![Hugo](https://img.shields.io/badge/Hugo-FF4088?logo=hugo&logoColor=white)
 
 - 略懂 .NET 程式設計 (.NET enthusiast)
   ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white) 
@@ -44,13 +42,9 @@ Hi there! 👋
 
 ### 🤖 AI writing tools
 
-![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?logo=openai&logoColor=white)
-![Gemini CLI](https://img.shields.io/badge/Gemini_CLI-4285F4?logo=google&logoColor=white)
-![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?logo=google&logoColor=white)
-
-- ChatGPT
-- Gemini CLI
-- NotebookLM
+- ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?logo=openai&logoColor=white)
+- ![Gemini CLI](https://img.shields.io/badge/Gemini_CLI-4285F4?logo=google&logoColor=white)
+- ![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?logo=google&logoColor=white)
 
 ---
 
