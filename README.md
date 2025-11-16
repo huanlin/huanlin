@@ -5,10 +5,7 @@ Hi there! 👋
 - IT 老菜鳥 (still leveling up)
 - 技術寫作者 (technical writer)
   ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
-
 - 略懂 .NET 程式設計 (.NET enthusiast)
-  ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white) 
-  ![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
 - 喜歡分享讀書心得、學習筆記
 
 ## Current projects (目前進行的專案)
