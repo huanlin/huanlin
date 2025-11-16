@@ -1,18 +1,20 @@
 Hi there! 👋
 
-## Who am I （我是誰）
+## Who am I (我是誰)
 
-- IT 老菜鳥
-- 略懂 .NET 程式設計
-- 略懂技術寫作
-- 喜歡分享讀書心得以及一些有的沒的
+- IT 老菜鳥 (still leveling up)
+- 略懂 .NET 程式設計 (.NET enthusiast)
+- 略懂技術寫作 (technical writer)
+- 喜歡分享讀書心得、學習筆記
 
-## Current projects （目前進行的專案）
+## Current projects (目前進行的專案)
 
-- [Text to Braille](https://github.com/braillekit/text-to-braille) (前身是 EasyBrailleEdit，這是該專案的開放原始碼版本）
-- [Google documentation style guide](https://github.com/tech-writing-lab/style-guide) (🤝 collaboration needed)
+- **[Text to Braille](https://github.com/braillekit/text-to-braille)**
+  前身是 EasyBrailleEdit。這是該專案的開放原始碼版本，用於點字翻譯與編輯。
+- [Google documentation style guide](https://github.com/tech-writing-lab/style-guide)
+  把 Google 的技術文件風格指南轉換成 Markdown 格式，以便本地化。 (🤝 collaboration needed)
 
-## Recent writing （近期文章）
+## Recent writing (近期文章)
 
 <!-- BLOG-POST-LIST:START -->
 - [我配戴連續血糖監測器的第一週心得](https://www.huanlintalk.com/2025/11/lessons-from-my-first-week-with-cgm.html)
@@ -22,19 +24,19 @@ Hi there! 👋
 - [Quarto 筆記 &lpar;2&rpar; - 自動發布至 GitHub Pages](https://www.huanlintalk.com/2025/09/publishing-quarto-site-to-github-pages.html)
 <!-- BLOG-POST-LIST:END -->
 
-## Tools I use（常用工具）
+## Tools I use (常用工具)
 
-### Terminal / Shell 
+### Terminal / Shell 🖥️
 
 - [Starship](https://github.com/starship/starship)
 - [Oh My Posh](https://github.com/JanDeDobbeleer/oh-my-posh)
 
-### Docs-as-Code
+### Docs-as-Code 📘
 
 - [Hugo](https://gohugo.io/) + [Docsy](https://www.docsy.dev/)
 - [Quarto](https://quarto.org/)
 
-### AI writing tools
+### AI writing tools 🤖
 
 - ChatGPT
 - Gemini CLI
@@ -42,11 +44,13 @@ Hi there! 👋
 
 ---
 
-## 🌐 Find me （其他站點）
+## 🌐 Find me (其他站點)
 - **Blog:** <https://huanlintalk.com>
 - **Facebook:** <https://www.facebook.com/huanlin.notes>
 
 ## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huanlin&show_icons=true&theme=transparent&hide_border=true)
 
 ---
 
