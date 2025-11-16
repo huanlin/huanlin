@@ -4,7 +4,6 @@ Hi there! 👋
 
 - IT 老菜鳥 (still leveling up)
 - 技術寫作者 (technical writer)
-  ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
 - 略懂 .NET 程式設計 (.NET enthusiast)
 - 喜歡分享讀書心得、學習筆記
 
