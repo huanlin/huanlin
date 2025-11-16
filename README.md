@@ -26,17 +26,17 @@ Hi there! 👋
 
 ## Tools I use (常用工具)
 
-### Terminal / Shell 🖥️
+### 🖥️ Terminal / Shell
 
 - [Starship](https://github.com/starship/starship)
 - [Oh My Posh](https://github.com/JanDeDobbeleer/oh-my-posh)
 
-### Docs-as-Code 📘
+### 📘 Docs-as-Code
 
 - [Hugo](https://gohugo.io/) + [Docsy](https://www.docsy.dev/)
 - [Quarto](https://quarto.org/)
 
-### AI writing tools 🤖
+### 🤖 AI writing tools
 
 - ChatGPT
 - Gemini CLI
@@ -51,7 +51,7 @@ Hi there! 👋
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huanlin&show_icons=true&theme=transparent&hide_border=true)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huanlin&layout=compact&theme=transparent&hide_border=true)
 ---
 
 Thanks for stopping by! 😊
