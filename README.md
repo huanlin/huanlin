@@ -7,16 +7,12 @@ Hi there! 👋
 - 略懂 .NET 程式設計 (.NET enthusiast)
 - 喜歡分享讀書心得、學習筆記
 
----
-
 ## Current projects (目前進行的專案)
 
 - **[Text to Braille](https://github.com/braillekit/text-to-braille)**
   前身是 EasyBrailleEdit。這是該專案的開放原始碼版本，用於點字翻譯與編輯。
 - **[Google documentation style guide](https://github.com/tech-writing-lab/style-guide)**
   把 Google 的技術文件風格指南轉換成 Markdown 格式，以便本地化。 (🤝 collaboration needed)
-
----
 
 ## Recent writing (近期文章)
 
