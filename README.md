@@ -55,5 +55,31 @@ Hi there! 👋
 
 ---
 
+## 🏷️ Skills & tools（badges）
+
+### Programming
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+
+### Docs-as-Code
+![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white)
+![Quarto](https://img.shields.io/badge/Quarto-444444?logo=quarto&logoColor=white)
+![Hugo](https://img.shields.io/badge/Hugo-FF4088?logo=hugo&logoColor=white)
+
+### Terminal / Shell
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?logo=windowsterminal&logoColor=white)
+
+### AI Writing Tools
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?logo=openai&logoColor=white)
+![Gemini CLI](https://img.shields.io/badge/Gemini_CLI-4285F4?logo=google&logoColor=white)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?logo=google&logoColor=white)
+
+### Version Control
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+---
+
 Thanks for stopping by! 😊
 
