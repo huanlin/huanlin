@@ -22,7 +22,7 @@ Hi there! 👋
 - [Quarto 筆記 &lpar;2&rpar; - 自動發布至 GitHub Pages](https://www.huanlintalk.com/2025/09/publishing-quarto-site-to-github-pages.html)
 <!-- BLOG-POST-LIST:END -->
 
-## Tools （常用工具）
+## Tools I use（常用工具）
 
 ### Terminal / Shell 
 
@@ -42,9 +42,11 @@ Hi there! 👋
 
 ---
 
-## 📬 其他站點
+## 🌐 Find me （其他站點）
 - **Blog:** <https://huanlintalk.com>
 - **Facebook:** <https://www.facebook.com/huanlin.notes>
+
+## 📊 GitHub Stats
 
 ---
 
