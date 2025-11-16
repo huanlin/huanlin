@@ -1,0 +1,20 @@
+name: Update Blog Posts
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # 每 12 小時更新一次
+  workflow_dispatch:         # 可手動觸發
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pull RSS feed and update README
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # RSS feed URLs，多個用逗號分隔
+          feed_list: "https://huanlintalk.com/index.xml"
+          max_post_count: 5
