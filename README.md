@@ -41,9 +41,13 @@ Hi there! 👋
 
 ### 🤖 AI writing tools
 
-- [![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?logo=openai&logoColor=white)](https://chatgpt.com/)
-- [![Gemini CLI](https://img.shields.io/badge/Gemini_CLI-4285F4?logo=google&logoColor=white)](https://github.com/google-gemini/gemini-cli)
-- [![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?logo=google&logoColor=white)](https://notebooklm.google.com/)
+大致按使用頻率排列：
+
+- [ChatGPT](https://chatgpt.com/)
+- [Gemini CLI](https://github.com/google-gemini/gemini-cli)
+- [NotebookLM](https://notebooklm.google.com/)
+- [Google AI Studio](https://aistudio.google.com/)
+- [Gemini Code Asist](https://codeassist.google/)
 
 ---
 
