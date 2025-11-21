@@ -5,7 +5,8 @@ Hi there! 👋
 - IT 老菜鳥 (still leveling up)
 - 技術寫作者 (technical writer)
 - 略懂 .NET 程式設計 (.NET enthusiast)
-- 喜歡分享讀書心得、學習筆記
+
+簡單來說，偶爾寫點程式、學習筆記。有時候，筆記會變成一本書。
 
 ## Current projects (目前進行的專案)
 
