@@ -6,7 +6,7 @@ Hi there! 👋
 - 技術寫作者 (technical writer)
 - 略懂 .NET 程式設計 (.NET enthusiast)
 
-簡單來說，偶爾寫點程式、學習筆記。有時候，筆記會變成一本書。
+簡單來說，偶爾寫點程式、整理學習筆記。有時候，筆記會變成一本書。
 
 ## Current projects (目前進行的專案)
 
