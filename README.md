@@ -21,11 +21,11 @@ Hi there! 👋
 ## Recent writing (近期文章)
 
 <!-- BLOG-POST-LIST:START -->
+- [我用一週 Antigravity 的心得：為何評價兩極？](https://www.huanlintalk.com/2025/11/antigravity-why-are-opinions-so-split.html)
+- [我與 AI 處理 .NET Null Reference Warnings 的心得](https://www.huanlintalk.com/2025/11/fixing-net-null-reference-warnings-with.html)
 - [我配戴連續血糖監測器的第一週心得](https://www.huanlintalk.com/2025/11/lessons-from-my-first-week-with-cgm.html)
 - [從 awesome-copilot 裡面挖寶](https://www.huanlintalk.com/2025/10/treasures-in-awesome-copilot.html)
 - [Quarto 筆記 &lpar;4&rpar; - 單引號怎麼變醜了？](https://www.huanlintalk.com/2025/10/quotation-marks-look-ugly-in-my-quarto.html)
-- [Quarto 筆記 &lpar;3&rpar; - 從 Hugo 到 Quarto 的轉換心得](https://www.huanlintalk.com/2025/10/from-hugo-to-quarto.html)
-- [Quarto 筆記 &lpar;2&rpar; - 自動發布至 GitHub Pages](https://www.huanlintalk.com/2025/09/publishing-quarto-site-to-github-pages.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tools I use (常用工具)
