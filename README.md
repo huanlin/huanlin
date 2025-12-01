@@ -44,11 +44,11 @@ Hi there! 👋
 
 大致按使用頻率排列：
 
+- [Google Antigravity](https://antigravity.google/)
 - [ChatGPT](https://chatgpt.com/)
 - [Gemini CLI](https://github.com/google-gemini/gemini-cli)
 - [NotebookLM](https://notebooklm.google.com/)
 - [Google AI Studio](https://aistudio.google.com/)
-- [Gemini Code Asist](https://codeassist.google/)
 
 ---
 
