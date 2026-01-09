@@ -39,16 +39,22 @@ Hi there! 👋
 
 - [Hugo](https://gohugo.io/) + [Docsy](https://www.docsy.dev/)
 - [Quarto](https://quarto.org/)
+- [Astro](https://astro.build/)
 
-### 🤖 AI writing tools
+### 🤖 AI tools
 
 大致按使用頻率排列：
 
 - [Google Antigravity](https://antigravity.google/)
 - [ChatGPT](https://chatgpt.com/)
-- [Gemini CLI](https://github.com/google-gemini/gemini-cli)
 - [NotebookLM](https://notebooklm.google.com/)
 - [Google AI Studio](https://aistudio.google.com/)
+
+### Drawing
+
+- [Excalidraw for VS Code](https://github.com/excalidraw/excalidraw-vscode)
+- [Paint.NET](https://www.getpaint.net/)
+- [TechSmith Snagit](https://www.techsmith.com/snagit/)
 
 ---
 
