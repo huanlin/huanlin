@@ -53,6 +53,7 @@ Hi there! 👋
 ### Drawing
 
 - [Excalidraw for VS Code](https://github.com/excalidraw/excalidraw-vscode)
+- [tldraw](https://tldraw.com/)
 - [Paint.NET](https://www.getpaint.net/)
 - [TechSmith Snagit](https://www.techsmith.com/snagit/)
 
