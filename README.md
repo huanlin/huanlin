@@ -21,11 +21,11 @@ Hi there! 👋
 ## Recent writing (近期文章)
 
 <!-- BLOG-POST-LIST:START -->
+- [蛛網交易策略精要](https://www.huanlintalk.com/2026/01/spider-web-strategy-essentials.html)
 - [適合工程師的投資法：一個「無聊」但有效的系統](https://www.huanlintalk.com/2026/01/an-investment-system-for-engineers.html)
 - [與 AI Agent 協作的小秘訣](https://www.huanlintalk.com/2025/12/practical-tips-for-collaborating.html)
 - [我用一週 Antigravity 的心得：為何評價兩極？](https://www.huanlintalk.com/2025/11/antigravity-why-are-opinions-so-split.html)
 - [我與 AI 處理 .NET Null Reference Warnings 的心得](https://www.huanlintalk.com/2025/11/fixing-net-null-reference-warnings-with.html)
-- [我配戴連續血糖監測器的第一週心得](https://www.huanlintalk.com/2025/11/lessons-from-my-first-week-with-cgm.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tools I use (常用工具)
