@@ -21,7 +21,7 @@ Hi there! 👋
 ## Recent writing (近期文章)
 
 <!-- BLOG-POST-LIST:START -->
-- [Get started Authoring Antigravity Skills](https://www.huanlintalk.com/2026/01/get-started-authoring-antigravity-skills.html)
+- [Get started authoring Antigravity Skills](https://www.huanlintalk.com/2026/01/get-started-authoring-antigravity-skills.html)
 - [Blazor 在 .NET 11 的未來發展](https://www.huanlintalk.com/2026/01/the-future-of-blazor-in-net-11.html)
 - [蛛網交易策略精要](https://www.huanlintalk.com/2026/01/spider-web-strategy-essentials.html)
 - [適合工程師的投資法：一個「無聊」但有效的系統](https://www.huanlintalk.com/2026/01/an-investment-system-for-engineers.html)
