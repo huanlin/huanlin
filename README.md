@@ -21,11 +21,11 @@ Hi there! 👋
 ## Recent writing (近期文章)
 
 <!-- BLOG-POST-LIST:START -->
+- [Agent Skills 使用心得（之二）](https://www.huanlintalk.com/2026/01/agent-skills-notes-2.html)
+- [引號在排版時產生的幽靈空隙](https://www.huanlintalk.com/2026/01/apostrophes-and-ghost-spaces-in.html)
 - [Get started authoring Antigravity Skills](https://www.huanlintalk.com/2026/01/get-started-authoring-antigravity-skills.html)
 - [Blazor 在 .NET 11 的未來發展](https://www.huanlintalk.com/2026/01/the-future-of-blazor-in-net-11.html)
 - [蛛網交易策略精要](https://www.huanlintalk.com/2026/01/spider-web-strategy-essentials.html)
-- [適合工程師的投資法：一個「無聊」但有效的系統](https://www.huanlintalk.com/2026/01/an-investment-system-for-engineers.html)
-- [與 AI Agent 協作的小秘訣](https://www.huanlintalk.com/2025/12/practical-tips-for-collaborating.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tools I use (常用工具)
