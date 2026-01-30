@@ -21,11 +21,11 @@ Hi there! 👋
 ## Recent writing (近期文章)
 
 <!-- BLOG-POST-LIST:START -->
+- [C# 14 新功能：field 關鍵字](https://www.huanlintalk.com/2026/01/csharp-14-field-keyword.html)
 - [Agent Skills 使用心得（之二）](https://www.huanlintalk.com/2026/01/agent-skills-notes-2.html)
 - [引號在排版時產生的幽靈空隙](https://www.huanlintalk.com/2026/01/apostrophes-and-ghost-spaces-in.html)
 - [Get started authoring Antigravity Skills](https://www.huanlintalk.com/2026/01/get-started-authoring-antigravity-skills.html)
 - [Blazor 在 .NET 11 的未來發展](https://www.huanlintalk.com/2026/01/the-future-of-blazor-in-net-11.html)
-- [蛛網交易策略精要](https://www.huanlintalk.com/2026/01/spider-web-strategy-essentials.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tools I use (常用工具)
