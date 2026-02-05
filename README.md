@@ -22,7 +22,7 @@ Hi there! 👋
 
 <!-- BLOG-POST-LIST:START -->
 - [搞懂 C# 的 ref struct](https://www.huanlintalk.com/2026/02/demystifying-csharp-ref-struct.html)
-- [重訪 C# 空值安全（下）： 擁抱 Nullable Reference Types](https://www.huanlintalk.com/2026/02/revisiting-csharp-null-safety-part-2.html)
+- [重訪 C# 空值安全（下）：擁抱 Nullable Reference Types](https://www.huanlintalk.com/2026/02/revisiting-csharp-null-safety-part-2.html)
 - [重訪 C# 空值安全（上）：更方便優雅的語法](https://www.huanlintalk.com/2026/02/revisiting-csharp-null-safety-part-1.html)
 - [C# 14 新功能：field 關鍵字](https://www.huanlintalk.com/2026/01/csharp-14-field-keyword.html)
 - [Agent Skills 使用心得（之二）](https://www.huanlintalk.com/2026/01/agent-skills-notes-2.html)
