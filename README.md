@@ -21,11 +21,11 @@ Hi there! 👋
 ## Recent writing (近期文章)
 
 <!-- BLOG-POST-LIST:START -->
-- [我的新書《現代 C#：AI 時代的開發者修煉》發布了！](https://www.huanlintalk.com/2026/02/modern-csharp-book-published.html)
+- [Book published: Modern C# - Developer&#39;s Craft in the AI Era &lpar;C# 14 and .NET 10&rpar;](https://www.huanlintalk.com/2026/02/new-book-published-modern-csharp-c-14.html)
+- [我的新書《現代 C#：AI 時代的開發者修煉》發布了](https://www.huanlintalk.com/2026/02/modern-csharp-book-published.html)
 - [搞懂 C# 的 ref struct](https://www.huanlintalk.com/2026/02/demystifying-csharp-ref-struct.html)
 - [重訪 C# 空值安全（下）：擁抱 Nullable Reference Types](https://www.huanlintalk.com/2026/02/revisiting-csharp-null-safety-part-2.html)
 - [重訪 C# 空值安全（上）：更方便優雅的語法](https://www.huanlintalk.com/2026/02/revisiting-csharp-null-safety-part-1.html)
-- [C# 14 新功能：field 關鍵字](https://www.huanlintalk.com/2026/01/csharp-14-field-keyword.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tools I use (常用工具)
