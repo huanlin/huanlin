@@ -21,11 +21,11 @@ Hi there! 👋
 ## Recent writing (近期文章)
 
 <!-- BLOG-POST-LIST:START -->
+- [新書發布：《深入淺出 .NET 10 非同步程式設計》](https://www.huanlintalk.com/2026/03/net-10-async-book.html)
 - [Something Big Is Happening. 真的嗎？](https://www.huanlintalk.com/2026/03/something-big-is-happening-really.html)
 - [.NET 11 的 Runtime Async](https://www.huanlintalk.com/2026/03/runtime-async-in-net-11-preview-1.html)
 - [Book published: Modern C# - Developer&#39;s Craft in the AI Era &lpar;C# 14 and .NET 10&rpar;](https://www.huanlintalk.com/2026/02/new-book-published-modern-csharp-c-14.html)
 - [我的新書《現代 C#：AI 時代的開發者修煉》發布了](https://www.huanlintalk.com/2026/02/modern-csharp-book-published.html)
-- [搞懂 C# 的 ref struct](https://www.huanlintalk.com/2026/02/demystifying-csharp-ref-struct.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tools I use (常用工具)
