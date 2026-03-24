@@ -21,11 +21,11 @@ Hi there! 👋
 ## Recent writing (近期文章)
 
 <!-- BLOG-POST-LIST:START -->
+- [C# struct 的防禦性複製（defensive copy）](https://www.huanlintalk.com/2026/03/csharp-defensive-copy.html)
 - [《深入淺出 .NET 10 非同步程式設計》第 3 章](https://www.huanlintalk.com/2026/03/dotnet-10-async-book-chapter-3.html)
 - [《深入淺出 .NET 10 非同步程式設計》第 2 章](https://www.huanlintalk.com/2026/03/dotnet-10-async-book-chapter-2.html)
 - [《深入淺出 .NET 10 非同步程式設計》第 1 章](https://www.huanlintalk.com/2026/03/dotnet-10-async-book-chapter-1.html)
 - [新書發布：《深入淺出 .NET 10 非同步程式設計》](https://www.huanlintalk.com/2026/03/net-10-async-book.html)
-- [Something Big Is Happening. 真的嗎？](https://www.huanlintalk.com/2026/03/something-big-is-happening-really.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tools I use (常用工具)
