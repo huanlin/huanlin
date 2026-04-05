@@ -21,11 +21,11 @@ Hi there! 👋
 ## Recent writing (近期文章)
 
 <!-- BLOG-POST-LIST:START -->
+- [C# 的集合運算式（Collection Expressions）](https://www.huanlintalk.com/2026/04/csharp-collection-expressions.html)
 - [.NET 非同步基礎：例外處理與取消](https://www.huanlintalk.com/2026/04/net-async-exception-and-cancellation.html)
 - [C# struct 的防禦性複製（defensive copy）](https://www.huanlintalk.com/2026/03/csharp-defensive-copy.html)
 - [.NET 非同步基礎：async 與 await](https://www.huanlintalk.com/2026/03/dotnet-10-async-book-chapter-3.html)
 - [.NET 非同步基礎：執行緒與工作](https://www.huanlintalk.com/2026/03/dotnet-10-async-book-chapter-2.html)
-- [.NET 執行緒與非同步的奧秘](https://www.huanlintalk.com/2026/03/dotnet-10-async-book-chapter-1.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Tools I use (常用工具)
