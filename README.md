@@ -41,15 +41,6 @@ Hi there! 👋
 - [Quarto](https://quarto.org/)
 - [Astro](https://astro.build/)
 
-### 🤖 AI tools
-
-大致按使用頻率排列：
-
-- [Google Antigravity](https://antigravity.google/)
-- [ChatGPT](https://chatgpt.com/)
-- [NotebookLM](https://notebooklm.google.com/)
-- [Google AI Studio](https://aistudio.google.com/)
-
 ### Drawing
 
 - [Excalidraw for VS Code](https://github.com/excalidraw/excalidraw-vscode)
