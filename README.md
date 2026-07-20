@@ -8,10 +8,11 @@ Hi there! 👋
 
 簡單來說，偶爾寫點程式、整理學習筆記。有時候，筆記會變成一本書。
 
-## 我的網站
+## Find me (網路足跡)
 
 - [Michael Tsai - Technical Books and Notes](https://huanlin.cc)
 - [Huanlin 學習筆記 (部落格）](https://huanlintalk.com)
+- [Facebook](https://www.facebook.com/huanlin.notes)
 
 ## Recent writing (近期文章)
 
@@ -22,32 +23,6 @@ Hi there! 👋
 - [C# 的集合運算式（Collection Expressions）](https://www.huanlintalk.com/2026/04/csharp-collection-expressions.html)
 - [.NET 非同步基礎：例外處理與取消](https://www.huanlintalk.com/2026/04/net-async-exception-and-cancellation.html)
 <!-- BLOG-POST-LIST:END -->
-
-## Tools I use (常用工具)
-
-### 🖥️ Terminal / Shell
-
-- [Starship](https://github.com/starship/starship)
-- [Oh My Posh](https://github.com/JanDeDobbeleer/oh-my-posh)
-
-### 📘 Docs-as-Code
-
-- [Hugo](https://gohugo.io/) + [Docsy](https://www.docsy.dev/)
-- [Quarto](https://quarto.org/)
-- [Astro](https://astro.build/)
-
-### Drawing
-
-- [Excalidraw for VS Code](https://github.com/excalidraw/excalidraw-vscode)
-- [tldraw](https://tldraw.com/)
-- [Paint.NET](https://www.getpaint.net/)
-- [TechSmith Snagit](https://www.techsmith.com/snagit/)
-
----
-
-## 🌐 Find me (其他站點)
-- **Blog:** <https://huanlintalk.com>
-- **Facebook:** <https://www.facebook.com/huanlin.notes>
 
 ## 📊 GitHub Stats
 
