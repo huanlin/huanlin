@@ -17,11 +17,11 @@ Hi there! 👋
 ## Recent writing (近期文章)
 
 <!-- BLOG-POST-LIST:START -->
+- [兩本 .NET 電子書開放更多免費章節](https://www.huanlintalk.com/2026/07/free-chapters-from-my-books.html)
 - [用 CodeGraph 節省 Token（入門筆記）](https://www.huanlintalk.com/2026/07/saving-tokens-with-codegraph.html)
 - [MacBook Pro 初上手：Windows 使用者必知操作](https://www.huanlintalk.com/2026/06/macbook-pro-basics-for-windows-users.html)
 - [The Common Sense of HTML vs Markdown](https://www.huanlintalk.com/2026/05/the-common-sense-of-html-vs-markdown.html)
 - [C# 的集合運算式（Collection Expressions）](https://www.huanlintalk.com/2026/04/csharp-collection-expressions.html)
-- [.NET 非同步基礎：例外處理與取消](https://www.huanlintalk.com/2026/04/net-async-exception-and-cancellation.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📊 GitHub Stats
