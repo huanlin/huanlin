@@ -24,6 +24,11 @@ Hi there! 👋
 - [C# 的集合運算式（Collection Expressions）](https://www.huanlintalk.com/2026/04/csharp-collection-expressions.html)
 <!-- BLOG-POST-LIST:END -->
 
+## Recent fun discoveries（最近的發現的有趣玩意）
+
+- [architecture-drawer](https://github.com/Andy1314Chen/architecture-drawer/tree/main) - A skill for Claude Code, Codex, Open Code, Pi Agent, and other AI coding agents: turn a text description of your system architecture into an editable PowerPoint architecture diagram. 
+- [A-writer-should-do](https://github.com/masterball-w/A-writer-should-do)  - 书籍写作特征蒸馏
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=huanlin&show_icons=true&theme=transparent&hide_border=true)
