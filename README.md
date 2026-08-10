@@ -28,6 +28,7 @@ Hi there! 👋
 
 - [architecture-drawer](https://github.com/Andy1314Chen/architecture-drawer/tree/main) - A skill for Claude Code, Codex, Open Code, Pi Agent, and other AI coding agents: turn a text description of your system architecture into an editable PowerPoint architecture diagram. 
 - [A-writer-should-do](https://github.com/masterball-w/A-writer-should-do)  - 书籍写作特征蒸馏
+- [https://github.com/rockbenben/zhengyin](https://github.com/rockbenben/zhengyin) - 中文母语者的美式发音纠正工具：逐个音素告诉你哪个念错了，全部跑在本机。
 
 ## 📊 GitHub Stats
 
