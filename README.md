@@ -17,11 +17,11 @@ Hi there! 👋
 ## Recent writing (近期文章)
 
 <!-- BLOG-POST-LIST:START -->
+- [Ippo Books 線上書店限時五折優惠](https://www.huanlintalk.com/2026/09/ippo-books-limited-time-offer.html)
 - [C# 15 - 封閉階層（closed hierachies）](https://www.huanlintalk.com/2026/09/csharp-15-closed-hierarchies.html)
 - [C# 15 - 聯合型別 &lpar;Union Types&rpar;](https://www.huanlintalk.com/2026/09/csharp-15-union-types.html)
 - [C# 15 - 具標籤的 break 和 continue](https://www.huanlintalk.com/2026/09/csharp-15-labeled-break-and-continue.html)
 - [電子書更新並解除 DRM](https://www.huanlintalk.com/2026/09/ebooks-updated-and-drm-free.html)
-- [4 個實用的 VS Code Markdown 表格編輯工具](https://www.huanlintalk.com/2026/08/4-vs-code-extensions-for-editing.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Recent fun discoveries（最近的發現的有趣玩意）
